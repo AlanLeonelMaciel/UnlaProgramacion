@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684984848 source:c:\users\alanl\documents\unla\pruebatema1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

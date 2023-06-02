@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1685057356 source:c:\users\alanl\documents\unla\pruebatema2\alaan.c
+	"alaaan.h"
+
+1685056707 c:\users\alanl\documents\unla\pruebatema2\alaaan.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1684988548 source:c:\users\alanl\documents\unla\pruebatema2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"alaaan.h"
+
