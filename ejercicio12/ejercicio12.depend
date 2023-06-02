@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682026651 source:c:\users\alanl\documents\unla\ejercicio12\main.c
+	<stdio.h>
+	<stdlib.h>
+
