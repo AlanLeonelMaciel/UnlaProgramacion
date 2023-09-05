@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="unla">
+		<Project filename="arregloscharEj7/arregloscharEj7.cbp" />
+		<Project filename="StructPunteros/StructPunteros.cbp" />
+		<Project filename="punteroStr/punteroStr.cbp" />
+		<Project filename="Punteros/Punteros.cbp" />
+		<Project filename="memoriaDinamicaInt/memoriaDinamicaInt.cbp" />
+		<Project filename="CambiarNumeroParametro/CambiarNumeroParametro.cbp" />
+		<Project filename="Archivos/Archivos.cbp" />
+		<Project filename="VacunasArchivo/VacunasArchivo.cbp" />
+		<Project filename="ABMStructArchivos/ABMStructArchivos/ABMStructArchivos.cbp" />
+		<Project filename="Listas3/Listas3.cbp" />
+		<Project filename="tp2023/tp2023.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

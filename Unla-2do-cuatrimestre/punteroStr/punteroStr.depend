@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692474884 source:c:\users\alanl\documents\unla\punterostr\main.c
+	<stdio.h>
+	<stdlib.h>
+

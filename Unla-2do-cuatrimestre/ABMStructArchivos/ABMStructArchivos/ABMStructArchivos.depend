@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600445698 source:c:\users\nico_\desktop\abmstructarchivos\main.c
+	<stdio.h>
+	<stdlib.h>
+

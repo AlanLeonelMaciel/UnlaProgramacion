@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692576632 source:c:\users\alanl\documents\unla\vacunasarchivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

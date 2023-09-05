@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1692649727 source:c:\users\alanl\documents\unla\listas\lista.c
+
+1692649694 source:c:\users\alanl\documents\unla\listas\nodo.c
+
+1692650156 source:c:\users\alanl\documents\unla\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1692652240 c:\users\alanl\documents\unla\listas\nodo.h
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1692653656 c:\users\alanl\documents\unla\listas\lista.h
+	<stdio.h>
+	<stdlib.h>
+	"Lista.c"
+
+1692653607 c:\users\alanl\documents\unla\listas\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"nodo.h"
+

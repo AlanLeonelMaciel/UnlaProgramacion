@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692482828 source:c:\users\alanl\documents\unla\memoriadinamicaint\main.c
+	<stdio.h>
+	<stdlib.h>
+

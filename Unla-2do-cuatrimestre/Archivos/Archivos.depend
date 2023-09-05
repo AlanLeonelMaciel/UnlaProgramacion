@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692568868 source:c:\users\alanl\documents\unla\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+

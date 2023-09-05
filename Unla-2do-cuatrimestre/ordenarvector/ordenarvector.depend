@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686813230 source:c:\users\alanl\documents\unla\ordenarvector\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1692665104 source:c:\users\alanl\documents\unla\listas3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"time.h"
+
+1692659511 c:\users\alanl\documents\unla\listas3\nodo.h
+	<stdio.h>
+	<stdlib.h>
+	"miLista.h"
+
+1692662187 c:\users\alanl\documents\unla\listas3\milista.h
+	<stdio.h>
+	<stdlib.h>
+
+1692659252 source:c:\users\alanl\documents\unla\listas3\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1692662165 source:c:\users\alanl\documents\unla\listas3\milista.c
+	<stdio.h>
+	<stdlib.h>
+	"miLista.h"
+	"nodo.h"
+

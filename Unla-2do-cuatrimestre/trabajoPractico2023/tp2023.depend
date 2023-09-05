@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1693452550 source:c:\users\alanl\documents\unla\tp2023\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaPreguntas.h"
+	<conio.h>
+	<windows.h>
+
+1693124364 source:c:\users\alanl\documents\unla\tp2023\juego.c
+	"juego.h"
+	"ListaPreguntas.h"
+	<string.h>
+
+1693122896 c:\users\alanl\documents\unla\tp2023\juego.h
+	<stdio.h>
+	<stdlib.h>
+	"ListaPreguntas.h"
+	"nodoListaPreguntas.h"
+
+1693111602 source:c:\users\alanl\documents\unla\tp2023\nodolistapreguntas.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoListaPreguntas.h"
+
+1693113599 c:\users\alanl\documents\unla\tp2023\nodolistapreguntas.h
+	<stdio.h>
+	<stdlib.h>
+	"ListaPreguntas.h"
+	"Juego.h"
+
+1693113836 c:\users\alanl\documents\unla\tp2023\listapreguntas.h
+	<stdio.h>
+	<stdlib.h>
+	"Juego.h"
+	"nodoListaPreguntas.h"
+
+1693125528 source:c:\users\alanl\documents\unla\tp2023\listapreguntas.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaPreguntas.h"
+	"nodoListaPreguntas.h"
+
