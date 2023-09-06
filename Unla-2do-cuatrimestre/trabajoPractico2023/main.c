@@ -17,11 +17,8 @@ int main()
     for(int i=0;i<4;i++){
        // char* cadenaDinamica=crearCadenaDinamica(100);
         printf("\n%d %s\n",i+1,nuevalista->inicio->pregunta->posibles[i]->respuesta);
-        if(nuevalista->inicio->pregunta->posibles[i]->nroRespuesta==
-           nuevalista->inicio->pregunta->posibles[i]->correcta){
-                 correcta=i+1;
-           }
 
+            correcta=nuevalista->inicio->pregunta->posibles[i]->correcta;
 
         //free(cadenaDinamica);
 

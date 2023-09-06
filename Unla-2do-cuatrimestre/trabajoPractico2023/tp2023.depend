@@ -40,18 +40,18 @@
 	"ListaPreguntas.h"
 	"nodoListaPreguntas.h"
 
-1693124364 source:c:\users\alanl\documents\unla\unlaprogramacion\unla-2do-cuatrimestre\trabajopractico2023\juego.c
+1693978382 source:c:\users\alanl\documents\unla\unlaprogramacion\unla-2do-cuatrimestre\trabajopractico2023\juego.c
 	"juego.h"
 	"ListaPreguntas.h"
 	<string.h>
 
-1693122896 c:\users\alanl\documents\unla\unlaprogramacion\unla-2do-cuatrimestre\trabajopractico2023\juego.h
+1693974289 c:\users\alanl\documents\unla\unlaprogramacion\unla-2do-cuatrimestre\trabajopractico2023\juego.h
 	<stdio.h>
 	<stdlib.h>
 	"ListaPreguntas.h"
 	"nodoListaPreguntas.h"
 
-1693113836 c:\users\alanl\documents\unla\unlaprogramacion\unla-2do-cuatrimestre\trabajopractico2023\listapreguntas.h
+1693974148 c:\users\alanl\documents\unla\unlaprogramacion\unla-2do-cuatrimestre\trabajopractico2023\listapreguntas.h
 	<stdio.h>
 	<stdlib.h>
 	"Juego.h"

@@ -51,5 +51,7 @@ void llenarListaArchivo(listaPtr);
 void MostrarArchivo();
 RespuestaPtr CrearRespuesta();
 char* crearCadenaDinamica(int caracteres);
+char** CrearArrayDinamicoDeStringsDinamicos(int lineas, int caracteres);
+void LiberarArrayDinamicoDeStringsDinamicos(char** arrayStrings, int lineas);
 
 #endif // JUEGO_H_INCLUDED
