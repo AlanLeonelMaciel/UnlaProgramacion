@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1697783556 source:c:\users\alanl\documents\unla\tp2023edit2\juego.c
+	"Juego.h"
+
+1697762978 c:\users\alanl\documents\unla\tp2023edit2\juego.h
+	"jugador.h"
+	"ListaJugadores.h"
+	<time.h>
+	<conio.h>
+	<unistd.h>
+
+1696669081 c:\users\alanl\documents\unla\tp2023edit2\jugador.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pregunta.h"
+	"Puntos.h"
+	"ListaPreguntas.h"
+
+1697782397 c:\users\alanl\documents\unla\tp2023edit2\listajugadores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+	"ManejoDinamico.h"
+
+1696725206 source:c:\users\alanl\documents\unla\tp2023edit2\jugador.c
+	"jugador.h"
+
+1697782803 source:c:\users\alanl\documents\unla\tp2023edit2\listajugadores.c
+	"ListaJugadores.h"
+
+1696571086 c:\users\alanl\documents\unla\tp2023edit2\pregunta.h
+	"Respuesta.h"
+	"ListaRespuestas.h"
+
+1697780733 source:c:\users\alanl\documents\unla\tp2023edit2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Juego.h"
+	"jugador.h"
+	"ListaJugadores.h"
+	"ListaPreguntas.h"
+	"ManejoDinamico.h"
+	"Juego.h"
+
+1697007851 source:c:\users\alanl\documents\unla\tp2023edit2\pregunta.c
+	"Pregunta.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1697007630 source:c:\users\alanl\documents\unla\tp2023edit2\respuesta.c
+	"Respuesta.h"
+
+1696490906 c:\users\alanl\documents\unla\tp2023edit2\respuesta.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1696674309 c:\users\alanl\documents\unla\tp2023edit2\puntos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ManejoDinamico.h"
+
+1696674234 source:c:\users\alanl\documents\unla\tp2023edit2\puntos.c
+	"Puntos.h"
+
+1697779317 source:c:\users\alanl\documents\unla\tp2023edit2\listarespuestas.c
+	"ListaRespuestas.h"
+
+1697779318 c:\users\alanl\documents\unla\tp2023edit2\listarespuestas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Respuesta.h"
+
+1697778849 source:c:\users\alanl\documents\unla\tp2023edit2\listapreguntas.c
+	"ListaPreguntas.h"
+
+1697778852 c:\users\alanl\documents\unla\tp2023edit2\listapreguntas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pregunta.h"
+	<time.h>
+
+1697777608 source:c:\users\alanl\documents\unla\tp2023edit2\manejodinamico.c
+	"ManejoDinamico.h"
+
+1697777536 c:\users\alanl\documents\unla\tp2023edit2\manejodinamico.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+telefe;16.5;show
+america;22.8;periodistico
+canal3;3.5;rural
+canal9;1;dibujos
+tvp;4;accion
+paka paka;2;dibujos
+pak;5;dibujos

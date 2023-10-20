@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1694494160 source:c:\users\alanl\documents\unla\parcial2\canal.c
+	"canal.h"
+
+1694493598 source:c:\users\alanl\documents\unla\parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"canal.h"
+
+1694492923 c:\users\alanl\documents\unla\parcial2\canal.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

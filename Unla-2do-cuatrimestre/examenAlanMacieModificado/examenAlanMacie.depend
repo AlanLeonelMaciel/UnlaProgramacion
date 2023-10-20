@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1694784368 source:c:\users\aula11\desktop\examenmaciel\examenalanmacie\numeros.c
+	"numeros.h"
+
+1694784416 c:\users\aula11\desktop\examenmaciel\examenalanmacie\numeros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1694784839 source:c:\users\aula11\desktop\examenmaciel\examenalanmacie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"numeros.h"
+
+1694897181 source:c:\users\alanl\desktop\examenalanmacie\examenalanmacie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"num.h"
+
+1694784416 c:\users\alanl\desktop\examenalanmacie\examenalanmacie\numeros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1694784368 source:c:\users\alanl\desktop\examenalanmacie\examenalanmacie\numeros.c
+	"numeros.h"
+
+1694784416 source:c:\users\alanl\desktop\examenalanmacie\examenalanmacie\numeros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1694897011 source:c:\users\alanl\desktop\examenalanmacie\examenalanmacie\num.c
+	"num.h"
+
+1694897269 c:\users\alanl\desktop\examenalanmacie\examenalanmacie\num.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1694897181 source:c:\users\alanl\desktop\examenalanmaciemodificado\examenalanmaciemodificado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"num.h"
+
+1694897269 c:\users\alanl\desktop\examenalanmaciemodificado\examenalanmaciemodificado\num.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1694897011 source:c:\users\alanl\desktop\examenalanmaciemodificado\examenalanmaciemodificado\num.c
+	"num.h"
+

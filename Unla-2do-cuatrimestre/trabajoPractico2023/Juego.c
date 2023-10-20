@@ -176,4 +176,18 @@ char* crearCadenaDinamica(int caracteres){
     }
     return cadena;
 }
+int ContarLineasArchivo(char nombreArchivo[40]){
+    int cont=0;
+        /////////////////////////////////////////////////////////////////
+    FILE *archivo = fopen(nombreArchivo, "r"); //Apertura del archivo modo lectura
+    if (archivo == NULL) {    //En caso de que no exista el archivo
+        perror("Error al abrir el archivo");
+        return;
+    }
+    char linea[200]; // Asumiendo que una línea no superará los 200 caracteres
+    while (fgets(linea, sizeof(linea), archivo) != NULL) {
+        cont++;
+    }
+    return cont;
+}
 

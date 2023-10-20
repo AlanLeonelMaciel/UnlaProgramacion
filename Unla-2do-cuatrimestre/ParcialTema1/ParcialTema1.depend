@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1694478478 source:c:\users\alanl\documents\unla\parcialtema1\jugador.c
+	"Jugador.h"
+
+1694478403 source:c:\users\alanl\documents\unla\parcialtema1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+
+1694478401 c:\users\alanl\documents\unla\parcialtema1\jugador.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

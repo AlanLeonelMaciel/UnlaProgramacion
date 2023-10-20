@@ -1,0 +1,11 @@
+1,Que animal era ScoobyDoo?
+2,Que pais gano el mundial 2022?
+3,Cual es el oceano mas grande del mundo?
+4,Quien escribio la obra Don Quijote de la Mancha?
+5,Cual es el simbolo quimico del oxigeno?
+6,Cual es el animal terrestre mas rapido del mundo?
+7,Cual es el instrumento musical mas grande de la orquesta?
+8,Cual es el planeta mas cercano al Sol?
+9,Cual es el pais mas grande del mundo?
+10,Cual es la capital de Italia?
+11,Quien pinto "La Noche Estrellada"?

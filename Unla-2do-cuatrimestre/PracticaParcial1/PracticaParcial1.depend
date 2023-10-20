@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1694160258 source:c:\users\alanl\documents\unla\practicaparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1694161021 source:c:\users\alanl\documents\unla\practicaparcial1\estructuras.c
+	"estructuras.h"
+
+1694160577 c:\users\alanl\documents\unla\practicaparcial1\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

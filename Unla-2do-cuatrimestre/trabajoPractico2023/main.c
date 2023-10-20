@@ -43,5 +43,8 @@ int main()
             }
 
     //MostrarArchivo();
+    int lineas;
+    lineas=ContarLineasArchivo("preguntass.txt");
+    printf("\n%d\n",lineas);
     return 0;
 }

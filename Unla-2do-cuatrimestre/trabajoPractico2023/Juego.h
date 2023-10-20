@@ -53,5 +53,6 @@ RespuestaPtr CrearRespuesta();
 char* crearCadenaDinamica(int caracteres);
 char** CrearArrayDinamicoDeStringsDinamicos(int lineas, int caracteres);
 void LiberarArrayDinamicoDeStringsDinamicos(char** arrayStrings, int lineas);
+int ContarLineasArchivo(char nombreArchivo[40]);
 
 #endif // JUEGO_H_INCLUDED

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1694549821 source:c:\users\positivo\desktop\parcialtres\aaptr.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"aaptr.h"
+
+1694550101 c:\users\positivo\desktop\parcialtres\aaptr.h
+
+1694550101 source:c:\users\positivo\desktop\parcialtres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"aaptr.h"
+
+1694550101 source:c:\users\alanl\documents\unla\unlaprogramacion\unla-2do-cuatrimestre\parcialtres\parcialtres\aaptr.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"aaptr.h"
+
+1694778751 c:\users\alanl\documents\unla\unlaprogramacion\unla-2do-cuatrimestre\parcialtres\parcialtres\aaptr.h
+
+1694550101 source:c:\users\alanl\documents\unla\unlaprogramacion\unla-2do-cuatrimestre\parcialtres\parcialtres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"aaptr.h"
+
+1694777316 source:c:\users\alanl\documents\unla\unlaprogramacion\unla-2do-cuatrimestre\parcialtres\parcialtres\libreria.c
+	"Libreria.h"
+
+1694777500 c:\users\alanl\documents\unla\unlaprogramacion\unla-2do-cuatrimestre\parcialtres\parcialtres\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

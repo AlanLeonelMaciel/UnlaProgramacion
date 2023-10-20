@@ -12,5 +12,15 @@
 		<Project filename="ABMStructArchivos/ABMStructArchivos/ABMStructArchivos.cbp" />
 		<Project filename="Listas3/Listas3.cbp" />
 		<Project filename="trabajoPractico2023/tp2023.cbp" />
+		<Project filename="ParcialTema1/ParcialTema1.cbp" />
+		<Project filename="Parcialtres/Parcialtres/Parcialtres.cbp" />
+		<Project filename="PracticaParcial1/PracticaParcial1.cbp" />
+		<Project filename="parcial2/parcial2.cbp" />
+		<Project filename="../../tp2023Edit/tp2023Edit.cbp" />
+		<Project filename="../../tp2023Edit2/tp2023Edit2.cbp" />
+		<Project filename="examenAlanMacieModificado/examenAlanMacie.cbp" />
+		<Project filename="../../arte/arte.cbp" />
+		<Project filename="../Unla-1er-cuatrimestre/creandoFunciones/creandoFunciones.cbp" />
+		<Project filename="../Unla-1er-cuatrimestre/fuunciones/fuunciones.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

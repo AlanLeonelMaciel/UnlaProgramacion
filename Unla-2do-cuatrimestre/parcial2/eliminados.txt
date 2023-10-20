@@ -1,0 +1,4 @@
+canal3;3.50;rural
+canal9;1.00;dibujos
+tvp;4.00;accion
+paka paka;2.00;dibujos
