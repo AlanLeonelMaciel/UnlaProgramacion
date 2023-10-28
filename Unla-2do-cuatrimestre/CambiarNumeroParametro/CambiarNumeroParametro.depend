@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692558947 source:c:\users\alanl\documents\unla\unlaprogramacion\unla-2do-cuatrimestre\cambiarnumeroparametro\main.c
+	<stdio.h>
+	<stdlib.h>
+
